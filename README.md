@@ -7,7 +7,7 @@
 
 ## 📄 Download the Full Guide (PDF)
 
-**[⬇️ Creating Retrieval Augmented Generation (RAG) through AI Agents with n8n, Pinecone (PDF)](Creating_RAG_through_AI_Agents_with_n8n_Pinecone_V1.pdf)**
+**[⬇️ Creating Retrieval Augmented Generation (RAG) through AI Agents with n8n, Pinecone (PDF)](Creating_RAG_through_AI_Agents_with_n8n_Pinecone.pdf)**
 
 A polished, print-ready 10-page manual with a designed cover, an AI/RAG diagram, and the full ZWIGATO policy appendix. The same content is reproduced below for quick reading on GitHub.
 
